@@ -6,3 +6,7 @@
 .App-link {
   color: #61dafb;
 }
+
+.box {
+  border: 1px dotted black;
+}
